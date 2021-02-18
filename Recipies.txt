@@ -8,3 +8,6 @@ Jam
 
 Chicken
 Mutton
+
+Beans
+Pizza
